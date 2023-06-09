@@ -1,7 +1,7 @@
 {
 	"name": "krzysztof-kn/my-app",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"homepage": "https://krzysztof-kn.github.io/krzysztof-kn.github.io.git",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
