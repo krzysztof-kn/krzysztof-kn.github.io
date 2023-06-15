@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krzysztof-kn/krzysztof-kn.github.io.git/static/css/main.7f30bef0.css",
-    "main.js": "/krzysztof-kn/krzysztof-kn.github.io.git/static/js/main.e986fd33.js",
-    "static/js/988.bcb6fcc0.chunk.js": "/krzysztof-kn/krzysztof-kn.github.io.git/static/js/988.bcb6fcc0.chunk.js",
-    "index.html": "/krzysztof-kn/krzysztof-kn.github.io.git/index.html",
-    "main.7f30bef0.css.map": "/krzysztof-kn/krzysztof-kn.github.io.git/static/css/main.7f30bef0.css.map",
-    "main.e986fd33.js.map": "/krzysztof-kn/krzysztof-kn.github.io.git/static/js/main.e986fd33.js.map",
-    "988.bcb6fcc0.chunk.js.map": "/krzysztof-kn/krzysztof-kn.github.io.git/static/js/988.bcb6fcc0.chunk.js.map"
+    "main.css": "/static/css/main.b7c09222.css",
+    "main.js": "/static/js/main.27445410.js",
+    "static/js/988.bcb6fcc0.chunk.js": "/static/js/988.bcb6fcc0.chunk.js",
+    "index.html": "/index.html",
+    "main.b7c09222.css.map": "/static/css/main.b7c09222.css.map",
+    "main.27445410.js.map": "/static/js/main.27445410.js.map",
+    "988.bcb6fcc0.chunk.js.map": "/static/js/988.bcb6fcc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f30bef0.css",
-    "static/js/main.e986fd33.js"
+    "static/css/main.b7c09222.css",
+    "static/js/main.27445410.js"
   ]
 }
