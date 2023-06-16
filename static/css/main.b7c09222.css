@@ -1,4 +1,125 @@
-@import url(https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat:wght@500&display=swap);body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-family:Montserrat,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}*{margin:0;padding:0}.felx-with-center{align-items:center;display:flex;justify-content:center}.font-bold{font-weight:700}.n-box1{background:#0c1d36;border-radius:55px;box-shadow:25px 25px 50px #050c16,-25px -25px 50px #132e56}.introduction{background-size:cover;height:100vh;width:100%}.introduction p{color:#fff;font-size:17px}.introduction div h1{color:hsla(0,0%,100%,.925);font-size:100px}.primary-button{background-color:#fff;border:none;border-radius:20px;font-size:22px;height:60px;width:200px}.header{position:fixed;right:0;top:0}.menu-icon{color:hsla(0,0%,100%,.589);cursor:pointer;font-size:70px;margin:10px;z-index:2}.show-header{align-items:center;background-color:#0c1d36;border-bottom-left-radius:40%;color:#fff;display:flex;flex-direction:column;height:40vh;justify-content:center;position:fixed;right:0;text-decoration:none;top:0;transition:all .5s;width:50%;z-index: 1}ul li{color:#fff;list-style:none;margin-top:30px}ul a{font-size:25px}.hide-header,ul a{color:#fff;text-decoration:none}.hide-header{align-items:center;display:flex;flex-direction:column;height:0;justify-content:center;overflow:hidden;position:fixed;right:0;top:0;transition:all .5s;width:0}
-/*# sourceMappingURL=main.b7c09222.css.map*/
+@import url(https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat:wght@500&display=swap);
 
-/* .menu-icon:hover{color:#fff;cursor:default;cursor:pointer;text-shadow:0 0 10px #fff} */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Montserrat, sans-serif;
+    margin: 0
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+.felx-with-center {
+    align-items: center;
+    display: flex;
+    justify-content: center
+}
+
+.font-bold {
+    font-weight: 700
+}
+.n-box1 {
+    background: #0c1d36;
+    border-radius: 55px;
+    box-shadow: 25px 25px 50px #050c16, -25px -25px 50px #132e56
+}
+.introduction {
+    background-size: cover;
+    height: 100vh;
+    width: 100%
+}
+
+.introduction p {
+    color: #fff;
+    font-size: 17px
+}
+
+.introduction div h1 {
+    color: hsla(0, 0%, 100%, .925);
+    font-size: 100px
+}
+
+.primary-button {
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    font-size: 22px;
+    height: 60px;
+    width: 200px
+}
+
+.menu-icon {
+    color: hsla(0, 0%, 100%, .589);
+    cursor: pointer;
+    font-size: 70px;
+    margin: 10px;
+    z-index: 2
+}
+.menu-icon:hover {
+    color: #fff;
+    cursor: default;
+    cursor: pointer;
+    text-shadow: 0 0 10px #fff
+}
+.header {
+    position: fixed;
+    right: 0;
+    top: 0
+}
+.show-header {
+    align-items: center;
+    background-color: #0c1d36;
+    border-bottom-left-radius: 40%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    text-decoration: none;
+    top: 0;
+    transition: all .5s;
+    width: 50%;
+    z-index: 1
+}
+
+ul li {
+    color: #fff;
+    list-style: none;
+    margin-top: 30px
+}
+
+ul a {
+    font-size: 25px;
+}
+
+.hide-header,
+ul a {
+    color: #fff;
+    text-decoration: none
+}
+
+.hide-header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 0;
+    justify-content: center;
+    overflow: hidden;
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: all .5s;
+    width: 0;
+    z-index: 1
+}
+
+/*# sourceMappingURL=main.b7c09222.css.map*/
